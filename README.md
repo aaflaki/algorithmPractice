@@ -8,5 +8,5 @@ While reviewing The Algorithm Design Manual (3rd Edition), I decided to implemen
 - Use of any part of this repository is allowed, and there is no need for attribution. And no guarantee for correctness. So feel free to use it at your own risk.
 
 #### Attribution:
-I have looked at studied others' implementations of some of the examples. So I might have borrowed some ideas or code fragments from other sources.
+I have studied others' implementations of some of the examples. So I might have borrowed some ideas or code fragments from other sources.
 I try to keep attributions in comments, but I might have mislocated those in refactorings of the code, and some might have gone missing.
